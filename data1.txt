@@ -1,0 +1,9 @@
+Misalkan ini sebuah coding
+start:
+
+coding untuk menghasilkan sebuah fitur
+
+
+end;
+
+
